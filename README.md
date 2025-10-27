@@ -6,6 +6,7 @@ My first repository
 3. Cars 3 🌩️ 🥉
 ---
 **About the Movies**
+---
 [About Cars](https://en.wikipedia.org/wiki/Cars_(film))
 ---
 [About Cars 2](https://en.wikipedia.org/wiki/Cars_2)
